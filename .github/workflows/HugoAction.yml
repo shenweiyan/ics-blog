@@ -24,6 +24,13 @@ jobs:
         #run: hugo --minify	# 使用hugo构建静态网页
         run: hugo         	# 使用hugo构建静态网页
 
+      - name: Install nodejs
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - run: npm i pagefind
+      - run: npx pagefind --source public --bundle-dir search
+
       - name: Deploy To gh-pages
         uses: peaceiris/actions-gh-pages@v3	# 一个自动发布github pages的action
         with:
