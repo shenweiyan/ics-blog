@@ -10,3 +10,6 @@
 [![ics-hugo-theme home preview](https://cdn.jsdelivr.net/gh/shenweiyan/ICS-Hugo-Theme/static/img/ics-hugo-theme-home.jpg "ics-hugo-theme template preview")](https://www.shumlab.com)
 
 [![ics-hugo-theme about preview](https://cdn.jsdelivr.net/gh/shenweiyan/ICS-Hugo-Theme/static/img/ics-hugo-theme-about.jpg "ics-hugo-theme template preview")](https://www.shumlab.com)
+
+
+<!-- Security scan triggered at 2025-09-02 14:23:58 -->
